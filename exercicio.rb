@@ -22,3 +22,5 @@ palavra = gets.chomp.downcase
 
  palindromo?(palavra) == true ? ( p"é um palindromo") : ( p "Não é palindromo")
 
+ #so pra fazer merge
+
